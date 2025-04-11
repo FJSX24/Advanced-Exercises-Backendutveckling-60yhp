@@ -9,3 +9,7 @@
 
 - https://docs.google.com/document/d/1-zIQOF2r_8Mz9h8HfNcOhlWWqsUfEq6L9StTXHZ02M4/edit?usp=sharing
 
+----------------------------
+* Extra avancerade övningar för vecka 16, ämnen: Express Router, API-design & Swagger
+
+- https://docs.google.com/document/d/1cxVnV0J_79UoGHM7riwhsOGHEqVGpTv9aiG5524EIRk/edit?usp=sharing
