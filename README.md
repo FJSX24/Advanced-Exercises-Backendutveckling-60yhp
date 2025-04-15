@@ -13,3 +13,8 @@
 * Extra avancerade övningar för vecka 16, ämnen: Express Router, API-design & Swagger
 
 - https://docs.google.com/document/d/1cxVnV0J_79UoGHM7riwhsOGHEqVGpTv9aiG5524EIRk/edit?usp=sharing
+
+----------------------------
+* Extra avancerade övningar för vecka 17, ämnen: Async/await, API-anrop från frontend, SwaggerHub-mockning, API-design
+
+- https://docs.google.com/document/d/1tuixC6Lujtn1fSyrj1vQx-CCLiqtq0VrrurNvqjJK1g/edit?usp=sharing
