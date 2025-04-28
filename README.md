@@ -18,3 +18,8 @@
 * Extra avancerade övningar för vecka 17, ämnen: Async/await, API-anrop från frontend, SwaggerHub-mockning, API-design
 
 - https://docs.google.com/document/d/1tuixC6Lujtn1fSyrj1vQx-CCLiqtq0VrrurNvqjJK1g/edit?usp=sharing
+
+----------------------------
+* Extra avancerade övningar för vecka 18, ämnen: SQL, PostgreSQL, relationsdatabaser och Express-integration
+
+- [https://docs.google.com/document/d/1tuixC6Lujtn1fSyrj1vQx-CCLiqtq0VrrurNvqjJK1g/edit?usp=sharing](https://docs.google.com/document/d/19jiBFrFVDhgCHNTXYvrrf8b8_YPsJd-i75aRftWM2E0/edit?usp=sharing)
